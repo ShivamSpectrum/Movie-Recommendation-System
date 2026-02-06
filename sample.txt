@@ -1,1 +1,2 @@
 this is the sample text for Devops practical
+This is line 2
